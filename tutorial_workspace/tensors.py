@@ -1,7 +1,7 @@
 # code from https://pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html
 
-import torch
 import numpy as np
+import torch
 
 data = [[1, 2], [3, 4]]
 x_data = torch.tensor(data)
